@@ -13,4 +13,6 @@ BiOSS group web page
 
 # projects
 
+- K. Domino, P. Sionkowski, N. Kruszewska, [polymer entropy](https://github.com/iitis/polymer_entropy/)
+
 # publications
