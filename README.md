@@ -6,7 +6,7 @@ The group's research focuses on advanced statistical analysis of the molecular d
 functioning of living organisms including humans (e.g., joint lubrication). In order to make the developed data analysis methods as universal as possible, we also conduct analysis of other data with similar characteristics (e.g., climate data).
 
 # members
-- (dr. hab Krzysztof Domino kdomino)[https://www.iitis.pl/en/person/kdomino], PI - (IITiS PAN)
+- [dr. hab Krzysztof Domino kdomino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
 - prof. dr. hab Adam Gadomski (PB)
 - dr inż. Natalia Kruszewska (PB)
 - dr Piotr Weber (PG)
