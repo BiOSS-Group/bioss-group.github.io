@@ -1,6 +1,6 @@
 # bioss-group.github.io
 
-!["Biopolymers, Software, Simulations, Statistics (BiOSS)"](img/bioss-group-logo-large.png "Biopolymers, Software, Simulations, Statistics (BiOSS)")
+!["Biopolymers, Software, Simulations, Statistics (BiOSS)"](img/bioss-group-logo-large.png)
 
 The interdisciplinary research group Biopolymers, Software, Simulations, Statistics (BiOSS) brings together staff from [Institute of Theoretical and Applied Informatics, Polish Academy of Sciences](https://www.iitis.pl/en), Bydgoszcz University of Technology, Gdansk University of Technology and Kazimierz Wielki University in Bydgoszcz.
 
