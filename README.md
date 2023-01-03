@@ -2,18 +2,18 @@
 
 !["Biopolymers, Software, Simulations, Statistics (BiOSS)"](img/bioss-group-logo-large.png)
 
-The interdisciplinary research group Biopolymers, Software, Simulations, Statistics (BiOSS) brings together staff from [Institute of Theoretical and Applied Informatics, Polish Academy of Sciences](https://www.iitis.pl/en), Bydgoszcz University of Technology, Gdansk University of Technology and Kazimierz Wielki University in Bydgoszcz.
+An interdisciplinary research group Biopolymers, Software, Simulations, Statistics (BiOSS) that brings together staff from [Institute of Theoretical and Applied Informatics, Polish Academy of Sciences](https://www.iitis.pl/en), Bydgoszcz University of Technology, Gdansk University of Technology and Kazimierz Wielki University in Bydgoszcz.
 
 The group's research focuses on advanced statistical analysis of the molecular dynamics of biopolymers that are important in the
 functioning of living organisms including humans (e.g., joint lubrication). In order to make the developed data analysis methods as universal as possible, we also conduct analysis of other data with similar characteristics (e.g., climate data).
 
 # members
-- [dr. hab Krzysztof Domino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
-- prof. dr. hab Adam Gadomski (PB)
+- [dr hab Krzysztof Domino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
+- prof. dr hab Adam Gadomski (PB)
 - dr inż. Natalia Kruszewska (PB)
 - dr Piotr Weber (PG)
 - dr Monika Okoniewska (UKW)
-- mgr inż. Piotr Sionkowski (IITiS PAN)
+- [mgr inż. Piotr Sionkowski](https://www.linkedin.com/in/piotr-sionkowski-355a8b87/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgecsc9HyTkGc1spJShmADQ%3D%3D) (IITiS PAN)
 - dr inż. Piotr Bełdowski (PB)
 
 # publications
