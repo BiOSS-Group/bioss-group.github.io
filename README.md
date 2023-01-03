@@ -17,7 +17,7 @@ functioning of living organisms including humans (e.g., joint lubrication). In o
 - dr inż. Piotr Bełdowski (PB)
 
 # publications
-1. P. Sionkowski, P. Bełdowski, N. Kruszewska, P. Weber, B. Marciniak, K. Domino, ”Effect of ion and binding site on the conformation of chosen glycosaminoglycans at the albumin surface”, Entropy 2022, 24, 811.
+1. P. Sionkowski, P. Bełdowski, N. Kruszewska, P. Weber, B. Marciniak, K. Domino, ”Effect of ion and binding site on the conformation of chosen glycosaminoglycans at the albumin surface”, [Entropy 2022, 24, 811](https://doi.org/10.3390/e24060811).
 
 2. P. Bełdowski, K. Domino, D. Bełdowski, R. Dobosz, ”Analysis of protein intramolecular and solvent bonding on example of major sonovital fluid component”, A. Gadomski (eds) Water in Biomechanical and Related Systems. Biologically-Inspired Systems, vol. 17: Springer, Cham, pp. 93-105, 11/2019, 2021.
 
