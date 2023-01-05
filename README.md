@@ -9,7 +9,7 @@ functioning of living organisms including humans (e.g., joint lubrication). In o
 
 # members
 - [dr hab Krzysztof Domino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
-- prof. dr hab Adam Gadomski (PB)
+- [prof. dr hab Adam Gadomski](https://wtiich.pbs.edu.pl/pl/pracownik/adam-gadomski) (PB)
 - dr inż. Natalia Kruszewska (PB)
 - dr Piotr Weber (PG)
 - dr Monika Okoniewska (UKW)
