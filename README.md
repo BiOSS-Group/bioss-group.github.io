@@ -10,9 +10,9 @@ functioning of living organisms including humans (e.g., joint lubrication). In o
 # members
 - [dr hab Krzysztof Domino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
 - [prof. dr hab Adam Gadomski](https://wtiich.pbs.edu.pl/pl/pracownik/adam-gadomski) (PB)
-- dr inż. Natalia Kruszewska (PB)
+- [dr inż. Natalia Kruszewska](https://wtiich.pbs.edu.pl/pl/pracownik/natalia-kruszewska) (PB)
 - dr Piotr Weber (PG)
-- dr Monika Okoniewska (UKW)
+- [dr Monika Okoniewska](https://www.ukw.edu.pl/pracownicy/strona/mokoniewska) (UKW)
 - [mgr inż. Piotr Sionkowski](https://www.linkedin.com/in/piotr-sionkowski-355a8b87/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgecsc9HyTkGc1spJShmADQ%3D%3D) (IITiS PAN)
 - dr inż. Piotr Bełdowski (PB)
 
