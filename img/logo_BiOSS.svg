@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo_BiOSS.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.88"
+     inkscape:cx="400"
+     inkscape:cy="423.5061"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#f07c00;fill-opacity:1;stroke-width:0.264583"
+       d="m 77.956016,87.006802 c -3.008778,-1.06707 -5.033465,-4.59549 -4.35134,-7.58309 0.168947,-0.73995 0.134061,-1.09364 -0.134335,-1.36204 -0.377767,-0.37777 -12.343503,-6.76658 -12.673262,-6.76658 -0.103475,0 -0.716303,0.54344 -1.361839,1.20765 -0.678605,0.69823 -1.917328,1.55563 -2.93658,2.0326 -4.54915,2.1288 -10.01107,0.15041 -12.273754,-4.44576 -1.540408,-3.12901 -1.303998,-6.72632 0.619877,-9.43229 1.970289,-2.77125 5.116597,-4.33184 8.32193,-4.12774 1.518702,0.0967 1.765242,0.045 2.067494,-0.43369 0.188746,-0.29891 1.799726,-4.62189 3.579957,-9.60661 l 3.236782,-9.06313 -1.204409,-1.06016 c -3.887985,-3.42234 -2.989901,-9.346662 1.724316,-11.374663 3.30725,-1.422741 7.445011,0.287651 8.854037,3.659918 0.634571,1.51875 0.512619,3.963635 -0.275265,5.518455 -1.17988,2.32838 -2.986275,3.49568 -5.807651,3.75294 l -1.834491,0.16727 -3.423796,9.525 -3.423796,9.525 0.724142,0.52917 c 1.583569,1.15719 2.804318,2.39175 3.443534,3.48249 0.540933,0.92303 0.782171,1.11761 1.24213,1.00187 1.364917,-0.34345 11.038416,-3.48668 11.186639,-3.6349 0.09007,-0.0901 0.210208,-0.8325 0.26698,-1.64985 0.170553,-2.45544 1.388843,-4.35491 3.546324,-5.52915 2.9683,-1.61555 6.752935,-0.71515 8.637562,2.05496 1.037002,1.52423 1.52282,3.63989 1.18306,5.15205 -0.812395,3.61571 -4.27645,5.98995 -7.775808,5.3295 -1.775365,-0.33507 -2.603958,-0.83082 -4.018788,-2.40445 l -1.239708,-1.37886 -5.210844,1.64586 c -7.322485,2.31282 -6.754764,2.02575 -6.576615,3.32549 0.08205,0.5986 -0.0123,1.85851 -0.209669,2.7998 -0.197365,0.94129 -0.280819,1.79209 -0.185454,1.89067 0.177583,0.18356 11.262113,6.12274 12.364814,6.62517 0.529426,0.24122 0.769729,0.1386 1.800876,-0.76905 2.624608,-2.31027 6.24209,-2.28413 8.853758,0.064 1.582846,1.42311 2.289598,3.03951 2.261608,5.17247 -0.05917,4.50892 -4.698479,7.68467 -8.998416,6.15969 z m 4.612431,-1.84666 c 1.798553,-0.89626 2.769539,-2.44953 2.769539,-4.43039 0,-1.44178 -0.670703,-3.11356 -1.578478,-3.93446 -0.795274,-0.71918 -2.352317,-1.26736 -3.581847,-1.26106 -5.349928,0.0274 -7.055813,7.24377 -2.275491,9.62591 1.741401,0.86777 2.924877,0.86777 4.666277,0 z M 56.06841,72.996592 c 3.747916,-1.8087 5.436878,-6.30507 3.796601,-10.10734 -1.201051,-2.78412 -4.294434,-4.82333 -7.316758,-4.82333 -2.643754,0 -5.622438,1.86544 -6.91268,4.32916 -0.944069,1.80269 -1.016114,4.9354 -0.156546,6.80699 1.831745,3.98839 6.627045,5.7067 10.589383,3.79452 z m -5.829577,-0.49614 c -0.56353,-0.20435 -1.456499,-0.71777 -1.984375,-1.14094 -1.80188,-1.44447 -3.193878,-4.95517 -2.31372,-5.83533 0.477825,-0.47782 1.221136,-0.23183 1.223129,0.40479 0.0067,2.12664 2.213548,4.9147 4.149177,5.24184 1.787013,0.30203 1.970489,0.40008 1.884042,1.0069 -0.10267,0.72071 -1.454183,0.86815 -2.958253,0.32274 z m 32.245434,-10.52883 c 4.253762,-2.13976 3.66009,-8.42841 -0.907523,-9.61323 -2.944535,-0.76381 -5.734379,0.91147 -6.394885,3.84006 -0.444568,1.97116 0.769001,4.69207 2.510047,5.6277 1.354537,0.72791 3.504732,0.79318 4.792361,0.14547 z m -15.716045,-25.9016 c 1.035596,-0.34551 2.494019,-1.62382 3.038619,-2.66335 0.205864,-0.39296 0.374301,-1.41145 0.374301,-2.26331 0,-6.05555 -8.520571,-7.001807 -10.071372,-1.118475 -1.006181,3.817185 2.848075,7.316425 6.658452,6.045135 z"
+       id="path921"
+       sodipodi:nodetypes="ssssssssssscssssscccsssssssssscssssssssssssssssssssssssscsssssssssssss"
+       inkscape:export-xdpi="527.65002"
+       inkscape:export-ydpi="527.65002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#888a8e;fill-opacity:1;stroke-width:0.264583"
+       x="90.007866"
+       y="60.828213"
+       id="text12"
+       inkscape:export-xdpi="527.65002"
+       inkscape:export-ydpi="527.65002"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="90.007866"
+         y="60.828213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#888a8e;fill-opacity:1;stroke-width:0.264583">BiOSS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="90.440971"
+       y="68.605225"
+       id="text836"
+       inkscape:export-xdpi="527.65002"
+       inkscape:export-ydpi="527.65002"><tspan
+         sodipodi:role="line"
+         id="tspan840"
+         x="90.440971"
+         y="68.605225">B<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1"
+   id="tspan927">IOPOLYMERS</tspan>, S<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1"
+   id="tspan929">OFTWARE</tspan>, S<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1"
+   id="tspan931">IMULATIONS</tspan>, S<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1"
+   id="tspan933">TATISTICS</tspan></tspan></text>
+    <path
+       style="fill:#f07c00;fill-opacity:1;stroke-width:0.264583"
+       d="m 91.738033,63.450232 c 0.0844,-0.43818 1.96229,-0.46302 35.006927,-0.46302 33.04463,0 34.92253,0.0248 35.00691,0.46302 0.0846,0.43909 -1.72449,0.46302 -35.00691,0.46302 -33.282427,0 -35.091487,-0.0239 -35.006927,-0.46302 z"
+       id="path921-7-4"
+       sodipodi:nodetypes="sscss"
+       inkscape:export-xdpi="527.65002"
+       inkscape:export-ydpi="527.65002" />
+  </g>
+</svg>
