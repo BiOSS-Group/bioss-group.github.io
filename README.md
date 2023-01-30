@@ -34,5 +34,5 @@ Simulations”, [Entropy 2020, 22, 405](https://www.mdpi.com/1099-4300/22/4/405)
 
 # popular science
 
-https://naukawpolsce.pl/aktualnosci/news%2C95105%2Ckolana-na-rolkach-bioinspiracja-do-walki-z-tarciem.html
+[Kolana na rolkach bioinspiracją do walki z tarciem](https://naukawpolsce.pl/aktualnosci/news%2C95105%2Ckolana-na-rolkach-bioinspiracja-do-walki-z-tarciem.html) (24.01.2023)
 
