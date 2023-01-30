@@ -31,3 +31,8 @@ Simulations”, [Entropy 2020, 22, 405](https://www.mdpi.com/1099-4300/22/4/405)
 # projects
 
 - K. Domino, P. Sionkowski, N. Kruszewska, [polymer entropy](https://github.com/iitis/polymer_entropy/)
+
+# popular science
+
+https://naukawpolsce.pl/aktualnosci/news%2C95105%2Ckolana-na-rolkach-bioinspiracja-do-walki-z-tarciem.html
+
