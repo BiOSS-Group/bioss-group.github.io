@@ -2,19 +2,19 @@
 
 !["Biopolymers, Software, Simulations, Statistics (BiOSS)"](./img/bioss-group-logo-large.png){:height="50%" width="50%"}
 
-The interdisciplinary research group Biopolymers, Software, Simulations, Statistics (BiOSS) brings together staff from [Institute of Theoretical and Applied Informatics, Polish Academy of Sciences](https://www.iitis.pl/en), Bydgoszcz University of Science and Technology, Gdańsk University of Technology and Kazimierz Wielki University in Bydgoszcz.
+The interdisciplinary research group Biopolymers, Software, Simulations, Statistics (BiOSS) brings together staff from [Institute of Theoretical and Applied Informatics, Polish Academy of Sciences](https://www.iitis.pl/en), Bydgoszcz University of Science and Technology (PBŚ), Gdańsk University of Technology (PG) and Kazimierz Wielki University in Bydgoszcz (UKW).
 
 The group's research focuses on advanced statistical analysis of the molecular dynamics of biopolymers that are important in the
 functioning of living organisms including humans (e.g., joint lubrication). In order to make the developed data analysis methods as universal as possible, we also conduct analysis of other data with similar characteristics (e.g., climate data).
 
 # members
 - [dr hab Krzysztof Domino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
-- [prof. dr hab Adam Gadomski](https://wtiich.pbs.edu.pl/pl/pracownik/adam-gadomski) (PB)
-- [dr inż. Natalia Kruszewska](https://wtiich.pbs.edu.pl/pl/pracownik/natalia-kruszewska) (PB)
+- [prof. dr hab Adam Gadomski](https://wtiich.pbs.edu.pl/pl/pracownik/adam-gadomski) (PBŚ)
+- [dr inż. Natalia Kruszewska](https://wtiich.pbs.edu.pl/pl/pracownik/natalia-kruszewska) (PBŚ)
 - dr Piotr Weber (PG)
 - [dr Monika Okoniewska](https://www.ukw.edu.pl/pracownicy/strona/mokoniewska) (UKW)
 - [mgr inż. Piotr Sionkowski](https://www.linkedin.com/in/piotr-sionkowski-355a8b87/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgecsc9HyTkGc1spJShmADQ%3D%3D) (IITiS PAN)
-- dr inż. Piotr Bełdowski (PB)
+- [dr inż. Piotr Bełdowski](https://wtiich.pbs.edu.pl/pl/pracownik/piotr-beldowski) (PBŚ)
 
 # publications
 1. P. Sionkowski, P. Bełdowski, N. Kruszewska, P. Weber, B. Marciniak, K. Domino, ”Effect of ion and binding site on the conformation of chosen glycosaminoglycans at the albumin surface”, [Entropy 2022, 24, 811](https://doi.org/10.3390/e24060811).
