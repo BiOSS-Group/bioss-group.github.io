@@ -2,7 +2,7 @@
 
 !["Biopolymers, Software, Simulations, Statistics (BiOSS)"](./img/logo_BiOSS.svg){:height="50%" width="50%"}
 
-The interdisciplinary research group Biopolymers, Software, Simulations, Statistics (BiOSS) brings together staff from [Institute of Theoretical and Applied Informatics, Polish Academy of Sciences](https://www.iitis.pl/en), Bydgoszcz University of Science and Technology (PBŚ), Gdańsk University of Technology (PG) and Kazimierz Wielki University in Bydgoszcz (UKW).
+The interdisciplinary research group Biopolymers, Software, Simulations, Statistics (BiOSS) brings together staff from [Institute of Theoretical and Applied Informatics, Polish Academy of Sciences](https://www.iitis.pl/en) (IITiS), Bydgoszcz University of Science and Technology (PBŚ), Gdańsk University of Technology (PG) and Kazimierz Wielki University in Bydgoszcz (UKW).
 
 The group's research focuses on advanced statistical analysis of the molecular dynamics of biopolymers that are important in the
 functioning of living organisms including humans (e.g., joint lubrication). In order to make the developed data analysis methods as universal as possible, we also conduct analysis of other data with similar characteristics (e.g., climate data).
