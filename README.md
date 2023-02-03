@@ -28,6 +28,8 @@ functioning of living organisms including humans (e.g., joint lubrication). In o
 5. P. Weber, P. Bełdowski, K. Domino, D. Ledziński, A. Gadomski, ”Changes of Conformation in Albumin with Temperature by Molecular Dynamics
 Simulations”, [Entropy 2020, 22, 405](https://www.mdpi.com/1099-4300/22/4/405).
 
+6. P. Bełdowski, P. Weber, A. Dėdinaitė, P. M. Claesson, A. Gadomski, "Physical crosslinking of hyaluronic acid in the presence of phospholipids in an aqueous nano-environment". [Soft matter, 2018, 14(44), 8997-9004](https://doi.org/10.1039/C8SM01388H).
+
 # projects
 
 - K. Domino, P. Sionkowski, N. Kruszewska, [polymer entropy](https://github.com/iitis/polymer_entropy/)
