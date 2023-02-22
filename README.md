@@ -30,9 +30,14 @@ Simulations”, [Entropy 2020, 22, 405](https://www.mdpi.com/1099-4300/22/4/405)
 
 6. P. Bełdowski, P. Weber, A. Dėdinaitė, P. M. Claesson, A. Gadomski, "Physical crosslinking of hyaluronic acid in the presence of phospholipids in an aqueous nano-environment", [Soft Matter, 2018, 14(44), 8997-9004](https://doi.org/10.1039/C8SM01388H).
 
-# projects
+# code
 
 - K. Domino, P. Sionkowski, N. Kruszewska, [polymer entropy](https://github.com/iitis/polymer_entropy/)
+
+# research projects
+
+- ''Properties of generic quantum communication channels'', National Science Centre in Poland Sonata Bis project number 2016/22/E/ST6/00062
+- National Science Centre in Poland Miniature project number 019/03/X/ST3/01482
 
 # popular science
 
