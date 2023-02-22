@@ -37,7 +37,7 @@ Simulations”, [Entropy 2020, 22, 405](https://www.mdpi.com/1099-4300/22/4/405)
 # research grants
 
 - ''Properties of generic quantum communication channels'', National Science Centre in Poland Sonata Bis project number 2016/22/E/ST6/00062
-- National Science Centre in Poland Miniature project number 019/03/X/ST3/01482
+- National Science Centre in Poland Miniatura project number 019/03/X/ST3/01482
 
 # popular science
 
