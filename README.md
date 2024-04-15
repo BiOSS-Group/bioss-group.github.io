@@ -8,7 +8,7 @@ The group's research focuses on advanced statistical analysis of the molecular d
 functioning of living organisms including humans (e.g., joint lubrication). In order to make the developed data analysis methods as universal as possible, we also conduct analysis of other data with similar characteristics (e.g., climate data).
 
 # members
-- [dr hab Krzysztof Domino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
+- [dr hab. Krzysztof Domino](https://www.iitis.pl/en/person/kdomino), PI - (IITiS PAN)
 - [prof. dr hab Adam Gadomski](https://wtiich.pbs.edu.pl/pl/pracownik/adam-gadomski) (PBŚ)
 - [dr inż. Natalia Kruszewska](https://wtiich.pbs.edu.pl/pl/pracownik/natalia-kruszewska) (PBŚ)
 - [dr Piotr Weber](https://mostwiedzy.pl/pl/piotr-weber,1134940-1) (PG)
@@ -17,18 +17,22 @@ functioning of living organisms including humans (e.g., joint lubrication). In o
 - [dr inż. Piotr Bełdowski](https://wtiich.pbs.edu.pl/pl/pracownik/piotr-beldowski) (PBŚ)
 
 # publications
-1. P. Sionkowski, P. Bełdowski, N. Kruszewska, P. Weber, B. Marciniak, K. Domino, ”Effect of ion and binding site on the conformation of chosen glycosaminoglycans at the albumin surface”, [Entropy 2022, 24, 811](https://doi.org/10.3390/e24060811).
+1.  P. Weber, P. Bełdowski, A. Gadomski, K. Domino, P. Sionkowski, and D. Ledziński, "Statistical method for analysis of interactions between chosen protein and chondroitin sulfate in an aqueous environment", The 16th International Conference "Dynamical Systems – Theory and Applications" (DSTA 2021), 12/2021, [arXiv:2202.07461](https://doi.org/10.48550/arXiv.2202.07461)
 
-2. P. Bełdowski, K. Domino, D. Bełdowski, R. Dobosz, ”Analysis of protein intramolecular and solvent bonding on example of major sonovital fluid component”, [A. Gadomski (eds) Water in Biomechanical and Related Systems. Biologically-Inspired Systems, vol. 17: Springer, Cham, pp. 93-105, 11/2019, 2021](https://link.springer.com/chapter/10.1007/978-3-030-67227-0_5).
+2.  P. Bełdowski, P. Weber, A. Gadomski, P. Sionkowski, N.Kruszewska and K. Domino, "Studies of the interaction dynamics in albumin - chondroitin sulfate systems by recurrence method", The 16th International Conference "Dynamical Systems – Theory and Applications" (DSTA 2021), 12/2021.
 
-3. N. Kruszewska, K. Domino, P. Weber, ”Water Behavior Near the Lipid Bilayer”,[ A. Gadomski (eds) Water in Biomechanical and Related Systems. Biologically-Inspired Systems, vol. 17: Springer, Cham, pp. 107-130, 2021](https://link.springer.com/chapter/10.1007/978-3-030-67227-0_6).
+3. P. Sionkowski, P. Bełdowski, N. Kruszewska, P. Weber, B. Marciniak, K. Domino, ”Effect of ion and binding site on the conformation of chosen glycosaminoglycans at the albumin surface”, [Entropy 2022, 24, 811](https://doi.org/10.3390/e24060811).
 
-4. N. Kruszewska, K. Domino, R. Drelich, W. Urbaniak, A. D. Petelska, ”Interactions between Beta-2-Glycoprotein-1 and Phospholipid Bilayer-A Molecular Dynamic Study”, [Membranes 2020, 10, 39](https://www.mdpi.com/2077-0375/10/12/396).
+4. P. Bełdowski, K. Domino, D. Bełdowski, R. Dobosz, ”Analysis of protein intramolecular and solvent bonding on example of major sonovital fluid component”, [A. Gadomski (eds) Water in Biomechanical and Related Systems. Biologically-Inspired Systems, vol. 17: Springer, Cham, pp. 93-105, 11/2019, 2021](https://link.springer.com/chapter/10.1007/978-3-030-67227-0_5).
 
-5. P. Weber, P. Bełdowski, K. Domino, D. Ledziński, A. Gadomski, ”Changes of Conformation in Albumin with Temperature by Molecular Dynamics
+5. N. Kruszewska, K. Domino, P. Weber, ”Water Behavior Near the Lipid Bilayer”,[ A. Gadomski (eds) Water in Biomechanical and Related Systems. Biologically-Inspired Systems, vol. 17: Springer, Cham, pp. 107-130, 2021](https://link.springer.com/chapter/10.1007/978-3-030-67227-0_6).
+
+6. N. Kruszewska, K. Domino, R. Drelich, W. Urbaniak, A. D. Petelska, ”Interactions between Beta-2-Glycoprotein-1 and Phospholipid Bilayer-A Molecular Dynamic Study”, [Membranes 2020, 10, 39](https://www.mdpi.com/2077-0375/10/12/396).
+
+7. P. Weber, P. Bełdowski, K. Domino, D. Ledziński, A. Gadomski, ”Changes of Conformation in Albumin with Temperature by Molecular Dynamics
 Simulations”, [Entropy 2020, 22, 405](https://www.mdpi.com/1099-4300/22/4/405).
 
-6. P. Bełdowski, P. Weber, A. Dėdinaitė, P. M. Claesson, A. Gadomski, "Physical crosslinking of hyaluronic acid in the presence of phospholipids in an aqueous nano-environment", [Soft Matter, 2018, 14(44), 8997-9004](https://doi.org/10.1039/C8SM01388H).
+8. P. Bełdowski, P. Weber, A. Dėdinaitė, P. M. Claesson, A. Gadomski, "Physical crosslinking of hyaluronic acid in the presence of phospholipids in an aqueous nano-environment", [Soft Matter, 2018, 14(44), 8997-9004](https://doi.org/10.1039/C8SM01388H).
 
 # code
 
