@@ -18,7 +18,7 @@ functioning of living organisms, including humans (e.g., joint lubrication). To 
 
 # publications
 
-1. M. Okoniewska, P. Sionkowski, N. Kruszewska, K. Błażejczyk, and K. Domino, "A Scalable and Automated Recurrence Plot Method for Detecting Climate Change: The Case of the UTCI Bioclimatic Index in Central Europe", IEEE Transactions on Geoscience and Remote Sensing
+1. M. Okoniewska, P. Sionkowski, N. Kruszewska, K. Błażejczyk, and K. Domino, "A Scalable and Automated Recurrence Plot Method for Detecting Climate Change: The Case of the UTCI Bioclimatic Index in Central Europe", [IEEE Transactions on Geoscience and Remote Sensing 2025](https://ieeexplore.ieee.org/document/11121937)
 
 2. P. Sionkowski, N. Kruszewska, A. Kreitschitz, S. N. Gorb, and K. Domino, "Application of Recurrence Plot Analysis to Examine Dynamics of Biological Molecules on the Example of Aggregation of Seed Mucilage Components", [Entropy 2024, 26(5), 380](https://www.mdpi.com/1099-4300/26/5/380)
 
